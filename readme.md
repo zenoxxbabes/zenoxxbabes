@@ -1,80 +1,88 @@
-<!-- Banner -->
+<!-- THEME: Black x Purple | Author: ZENOXX -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2&height=200&section=header&text=🔥%20ZENOXX%20🔥&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=9A4DFF&text=ZENOXX&fontAlign=50&fontAlignY=35&fontSize=70&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Python%20%E2%80%A2%20JS%20%E2%80%A2%20TS&descAlign=50&descAlignY=60"/>
 </p>
 
-<!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=A020F0&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+ZENOXX!+👾;Fullstack+Developer+%26+Gamer+🎮;Loves+JavaScript%2C+Python%2C+React%2C+Next.js;Always+learning+%26+building+cool+stuff!"/>
-</p>
-
----
-
-## 🚀 About Me  
-- 💻 Fullstack Developer | Discord Bot Dev  
-- 🎮 Gamer | UI/UX Enthusiast | Content Creator  
-- ✨ Portfolio → [zenoxx.netlify.app](https://zenoxx.netlify.app/)  
-
----
-
-## 🛠️ Languages & Tools  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,html,css,discord,vscode,tailwind,figma&theme=dark" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=9A4DFF&center=true&vCenter=true&width=1000&lines=Python+%7C+JavaScript+%7C+TypeScript;React.js+%2B+Next.js+%2B+Node.js;Discord.js+%2F+Discord.py;UI+%26+UX+%7C+Texture+Design;Always+building+cool+stuff+%F0%9F%94%A5" alt="Typing Intro" />
 </p>
 
 ---
 
-## 🎮 Gaming Fan  
-
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/6995/6995574.png" width="80px"/>
-</p>
-
-<p align="center">
-  ⚡ I’m a huge fan of **FPS, RPG, and Open World Games**  
-  🎮 Favorite picks: Valorant, GTA V, Minecraft, Elden Ring
+### 🪄 About Me
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f680.svg" width="18"/> Passionate about <b>Web Dev, AR/VR, AI, and System Design</b><br/>
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4bb.svg" width="18"/> Building with <b>Python, JavaScript, TypeScript, React, Next.js, Node.js</b><br/>
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f58c.svg" width="18"/> Focused on crisp <b>UI & UX</b> and slick micro-interactions<br/>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
-
+### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zenoxxbabes&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=zenoxxbabes&theme=radical&hide_border=true" height="180"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,html,css,discord,vscode,tailwind,figma&perline=8" />
 </p>
 
 ---
 
-## 🔥 Contribution Graph  
-
+### 📊 Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenoxxbabes&bg_color=0d1117&color=9e4c98&line=9e4c98&point=ffffff&area=true&hide_border=true&custom_title=🔥%20Contribution%20Graph%20🔥"/>
+  <a href="https://github.com/zenoxxbabes">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=zenoxxbabes&show_icons=true&bg_color=0D1117&title_color=9A4DFF&icon_color=9A4DFF&text_color=FFFFFF&hide_border=true" alt="Stats"/>
+  </a>
+  <a href="https://github.com/zenoxxbabes">
+    <img height="160" src="https://streak-stats.demolab.com?user=zenoxxbabes&theme=radical&background=0D1117&ring=9A4DFF&fire=9A4DFF&currStreakLabel=9A4DFF&dates=FFFFFF&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/zenoxxbabes">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenoxxbabes&layout=compact&bg_color=0D1117&title_color=9A4DFF&text_color=FFFFFF&hide_border=true" alt="Top Languages"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenoxxbabes&theme=react-dark&bg_color=0D1117&color=9A4DFF&line=9A4DFF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
 
-## 😂 Random Dev Jokes  
-
+### 🔗 Portfolio & Socials
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card"/>
+  <a href="https://zenoxx.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-9A4DFF?style=for-the-badge&logo=firefox&logoColor=white"></a>
+  <a href="https://github.com/zenoxxbabes" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=9A4DFF"></a>
+  <a href="https://youtube.com/@zenoxxreturns" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=white&labelColor=9A4DFF"></a>
+  <a href="https://instagram.com/thezenoxx" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white&labelColor=9A4DFF"></a>
+  <a href="https://discordapp.com/users/thezenoxx" target="_blank"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=white&labelColor=9A4DFF"></a>
 </p>
 
 ---
 
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://github.com/zenoxxbabes"><img src="https://skillicons.dev/icons?i=github&theme=dark"/></a>
-  <a href="https://discordapp.com/users/thezenoxx"><img src="https://skillicons.dev/icons?i=discord&theme=dark"/></a>
-  <a href="https://www.instagram.com/thezenoxx"><img src="https://skillicons.dev/icons?i=instagram&theme=dark"/></a>
-  <a href="https://www.youtube.com/@zenoxxreturns"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="48"/></a>
+### 🧰 What I Use
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f5a5.svg" width="18"/> Editor: VS Code  
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f527.svg" width="18"/> Libraries: React, Next.js, discord.js, discord.py  
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4be.svg" width="18"/> DB: MySQL (plus ORMs), JSON stores  
 </p>
 
 ---
 
-<!-- Footer -->
+### 😂 Animated Dev Jokes
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2&height=150&section=footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=9A4DFF&center=true&vCenter=true&width=900&lines=Why+do+JavaScript+developers+wear+glasses%3F+Because+they+don't+%60C%23%60.;My+code+never+has+bugs%E2%80%94it+just+develops+random+features.;I+told+my+computer+I+needed+a+break%E2%80%94it+said+%22No+problem%2C+I'll+go+to+sleep.%22;99+little+bugs+in+the+code...+Take+one+down%2C+patch+it+around...;There+are+only+2+hard+things+in+CS%3A+naming+things%2C+cache+invalidation%2C+and+off-by-one+errors."/>
+</p>
+
+---
+
+### 🎮 Fun Bits
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3d3.svg" width="18"/> Table Tennis & Cricket fan  
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3a5.svg" width="18"/> Creating on YouTube: <a href="https://youtube.com/@zenoxxreturns">@zenoxxreturns</a>  
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f308.svg" width="18"/> Best place to see rainbows? <b>Hawaii</b>  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9A4DFF&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <sub>Made with a black × purple vibe by <a href="https://github.com/zenoxxbabes">ZENOXX</a>.</sub>
 </p>
