@@ -1,21 +1,52 @@
-# Hi 👋, I'm ZENOXX
+# Hi, I'm ZENOXX 👋
 
-A passionate coder from India
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=9A4DFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Exploring+AR%2FVR+%7C+AI+%7C+System+Design;Open+Source+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=zenoxxbabes)
+---
 
-- 🧑‍💻 All of my projects are available at [GitHub Projects](https://github.com/zenoxxbabes?tab=repositories)
-- 📫 Reach Me Out [here.](https://zenoxx.netlify.app)
-- ⚡ Fun fact: Why do programmers prefer dark mode? Because light attracts bugs! 🐛💡
+## 🚀 About Me
+- 💻 Passionate about **Web Development, AR/VR, AI, and System Design**
+- 🌱 Currently learning **Next.js, TypeScript, and advanced system design**
+- 🎯 Skilled in **JavaScript, React, Node.js, Databases, Algorithms, and OOP**
+- 🎨 Love building modern, interactive, and scalable web apps
 
-## Connect with me:
-[![Instagram](https://img.icons8.com/?size=100&id=ZRiAFreol5mE&format=png&color=000000)](https://www.instagram.com/thezenoxx/)
-[![Discord](https://icons8.com/icon/azzxdxaEfFJg/discord-new)](https://discordapp.com/users/)
+---
 
-## Languages and Tools:
-[![JavaScript/TypeScript](https://icons8.com/icon/hKrJAdwqbGgG/javascript)](#)
-[![HTML](https://img.icons8.com/?size=100&id=5FqTdhmW0Ul4&format=png&color=000000)](#)
-[![Python](https://img.icons8.com/?size=100&id=Ve5z6WN65Tg6&format=png&color=000000)](#)
-[![React/Next.js](https://img.icons8.com/?size=100&id=YYYhFVbH4vFv&format=png&color=000000)](#)
-[![UI/UX](https://img.icons8.com/?size=100&id=Ze43dD0tYgpX&format=png&color=000000)](#)
-[![Texture Desgine](https://img.icons8.com/?size=100&id=PKFI4UHXAaij&format=png&color=000000)](#)
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,tailwind,cpp,java,python,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zenoxx&show_icons=true&theme=radical" alt="stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenoxx&theme=radical" alt="streak" height="160" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenoxx&layout=compact&theme=radical" alt="top-langs" height="160" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/zenoxx" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/zenoxx" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://instagram.com/zenoxx" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://youtube.com/@zenoxx" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+
+---
+
+## ⚡ Fun Facts
+- 🏓 I love **Table Tennis & Cricket**
+- 🎥 I enjoy **creating YouTube content**
+- 🌈 Fun fact: **The best place to see rainbows is Hawaii**
+
+---
+
+⭐️ From [ZENOXX](https://github.com/zenoxx)
