@@ -73,7 +73,7 @@
 ---
 
 ### 🎮 Fun Bits
-- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3d3.svg" width="18"/> Table Tennis & Cricket fan  
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3d3.svg" width="18"/> After being a freelancer still touching grass.  
 - <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3a5.svg" width="18"/> Creating on YouTube: <a href="https://youtube.com/@zenoxxreturns">@zenoxxreturns</a>  
 - <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f308.svg" width="18"/> Best place to see rainbows? <b>Hawaii</b>  
 
@@ -84,5 +84,5 @@
 </p>
 
 <p align="center">
-  <sub>Made with a black × purple vibe by <a href="https://github.com/zenoxxbabes">ZENOXX</a>.</sub>
+  <sub>Made by <a href="https://github.com/zenoxxbabes">ZENOXX</a>.</sub>
 </p>
